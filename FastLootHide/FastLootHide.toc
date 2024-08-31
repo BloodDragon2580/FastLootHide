@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title:|cffd6266cFastLootHide|r
+## Notes: Ein Addon, das das Lootfenster schnell ausblendet.
+## Author: BloodDragon2580
+## Version: 1.0
+## IconTexture: Interface\AddOns\FastItemDelete\Media\Texture\logo
+
+FastLootHide.lua
