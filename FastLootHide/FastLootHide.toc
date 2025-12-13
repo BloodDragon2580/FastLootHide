@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title:|cffd6266cFastLootHide|r
 ## Notes: Ein Addon, das das Lootfenster schnell ausblendet.
 ## Author: BloodDragon2580
